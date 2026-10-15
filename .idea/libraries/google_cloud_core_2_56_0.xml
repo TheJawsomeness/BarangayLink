@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="google-cloud-core-2.56.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/google-cloud-core-2.56.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

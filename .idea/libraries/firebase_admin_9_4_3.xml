@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="firebase-admin-9.4.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/firebase-admin-9.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-client-2.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-auth-library-oauth2-http-1.35.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.13.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
